@@ -35,15 +35,54 @@
 - 
 
 ## Catastrofico
-# Mundo desconocido
+### Mundo desconocido (no fuentes confirmadas)
 - [Important Ummitie Message for all Humanity](https://youtu.be/TBQDC2Qd1HI)
 
 
-## Estar preparado
+# Estar preparado
 
+## Agua
+- Fuente independiente de Agua
+- Reciclado del agua consumo minimo
 
+## Comida
+- Almacenado alimentos no precederos para 6 meses
+- Semillas
+- Literatura de cultivos de plantas
+- Literatura de tipos de plantas en la zona donde vive
 
-Finanzas
-Energia
-Salud
-Comunicaciones
+## Localización (Lote o finca)
+- Preferiblemente lejos de la ciudad
+- Bajo costo 
+
+## Comunidad
+
+## Finanzas
+- Oro 
+- Efectivo
+  
+## Energia
+- Fuentes alternas de energía; auto-suficiencientes y auto-abastecimiento
+  
+## Salud
+- Almacenar kit de supervivencia (mirando lista)
+- Antibioticos
+- Saber de primeros auxilios
+
+## Comunicaciones
+- Fuentes alternas de comunicacion
+- Internet satelital
+- Radio
+
+## 
+
+Microcontrolador
+- 10
+Controlador de potencia
+- 30
+Resistencias
+- 
+Construir la estructura
+- 100-1500
+Cromado
+- Un tubo $30K
